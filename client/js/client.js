@@ -1,5 +1,5 @@
 
-const socket = io('http://localhost:4500'); 
+const socket = io('https://app.nearbykart.cfd'); 
 
 
 //fucntions 
